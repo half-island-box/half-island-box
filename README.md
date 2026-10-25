@@ -1,16 +1,55 @@
-## Hi there 👋
+<h1 align="center">half-island-box</h1>
 
-<!--
-**half-island-box/half-island-box** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <code>AI Agents</code> ·
+  <code>Backend Systems</code> ·
+  <code>AI Infrastructure</code>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  Building practical AI systems and documenting the engineering behind them.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br />
+
+```console
+$ whoami
+half-island-box
+
+$ focus
+agent systems  ·  document intelligence  ·  developer tools
+
+$ currently_learning
+LLM infrastructure  ·  CUDA  ·  systems design
+```
+
+## Direction
+
+I care about turning AI ideas into systems that are useful, observable, and
+maintainable.
+
+- **Agent systems** — orchestration, tool use, and multi-step workflows
+- **Applied AI** — document intelligence and structured data workflows
+- **AI infrastructure** — the systems and performance foundations behind LLMs
+
+## Selected work
+
+| Workstream | Focus |
+| --- | --- |
+| Agent orchestration | Multi-step workflows and reliable tool use |
+| Document intelligence | Automation for everyday document-heavy tasks |
+| Structured data | AI-assisted labeling and data organization |
+| Developer tooling | Interfaces and utilities for AI-assisted engineering |
+
+<sub>Selected work is currently private. Source code and demos can be shared
+when appropriate.</sub>
+
+## Working with
+
+`Python` · `Java` · `TypeScript` · `LLM Agents` · `MCP` · `CUDA`
+
+---
+
+<p align="center">
+  <sub>Build systems. Measure results. Document the process.</sub>
+</p>
