@@ -32,19 +32,20 @@ maintainable.
 - **Applied AI** — document intelligence and structured data workflows
 - **AI infrastructure** — the systems and performance foundations behind LLMs
 
-## Selected work
+## Lately work
 
 | Workstream | Focus |
 | --- | --- |
 | Agent orchestration | Multi-step workflows and reliable tool use |
 | Structured data | AI-assisted labeling and data organization |
+| AI-Infra Learning | train / inference / kernel |
 
 <sub>Selected work is currently private. Source code and demos can be shared
 when appropriate.</sub>
 
 ## Working with
 
-`Python` · `Java` · `TypeScript` · `LLM Agents` · `MCP` · `CUDA`
+`Python` · `Java`  · `LLM Agents` · `MCP` · `CUDA`
 
 ---
 
