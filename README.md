@@ -17,7 +17,7 @@ $ whoami
 half-island-box
 
 $ focus
-agent systems  ·  document intelligence  ·  developer tools
+agent systems  ·  engineer profile  ·  developer tools
 
 $ currently_learning
 LLM infrastructure  ·  CUDA  ·  systems design
@@ -37,9 +37,7 @@ maintainable.
 | Workstream | Focus |
 | --- | --- |
 | Agent orchestration | Multi-step workflows and reliable tool use |
-| Document intelligence | Automation for everyday document-heavy tasks |
 | Structured data | AI-assisted labeling and data organization |
-| Developer tooling | Interfaces and utilities for AI-assisted engineering |
 
 <sub>Selected work is currently private. Source code and demos can be shared
 when appropriate.</sub>
